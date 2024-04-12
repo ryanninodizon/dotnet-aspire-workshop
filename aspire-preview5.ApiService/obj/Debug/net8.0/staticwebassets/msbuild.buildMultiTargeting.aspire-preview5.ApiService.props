@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aspire-preview5.ApiService.props" />
+</Project>

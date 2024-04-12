@@ -1,0 +1,12 @@
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\bin\Debug\net8.0\aspire-preview5.ServiceDefaults.deps.json
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\bin\Debug\net8.0\aspire-preview5.ServiceDefaults.dll
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\bin\Debug\net8.0\aspire-preview5.ServiceDefaults.pdb
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.AssemblyInfo.cs
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.dll
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\refint\aspire-preview5.ServiceDefaults.dll
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.pdb
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\ref\aspire-preview5.ServiceDefaults.dll
