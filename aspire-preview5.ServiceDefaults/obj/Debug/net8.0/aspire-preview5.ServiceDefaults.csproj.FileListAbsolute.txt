@@ -10,3 +10,4 @@ C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-pr
 C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\refint\aspire-preview5.ServiceDefaults.dll
 C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.pdb
 C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\ref\aspire-preview5.ServiceDefaults.dll
+C:\Workshop\nerdearla\aspire-preview5.ServiceDefaults\obj\Debug\net8.0\aspire-preview5.ServiceDefaults.sourcelink.json

@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "/MU7S4ErZWQ=",
+  "dgSpecHash": "CADGwRXlyfM=",
   "success": true,
   "projectFilePath": "C:\\Workshop\\nerdearla\\aspire-preview5.ServiceDefaults\\aspire-preview5.ServiceDefaults.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\azure.core\\1.37.0\\azure.core.1.37.0.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\azure.monitor.opentelemetry.aspnetcore\\1.1.0\\azure.monitor.opentelemetry.aspnetcore.1.1.0.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\azure.monitor.opentelemetry.exporter\\1.2.0\\azure.monitor.opentelemetry.exporter.1.2.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\8.3.0\\microsoft.extensions.ambientmetadata.application.8.3.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\8.3.0\\microsoft.extensions.compliance.abstractions.8.3.0.nupkg.sha512",
@@ -45,17 +49,34 @@
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.7.0\\opentelemetry.api.providerbuilderextensions.1.7.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.7.0\\opentelemetry.exporter.opentelemetryprotocol.1.7.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.extensions.hosting\\1.7.0\\opentelemetry.extensions.hosting.1.7.0.nupkg.sha512",
-    "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.instrumentation.aspnetcore\\1.7.1\\opentelemetry.instrumentation.aspnetcore.1.7.1.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.instrumentation.aspnetcore\\1.7.0\\opentelemetry.instrumentation.aspnetcore.1.7.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.7.1\\opentelemetry.instrumentation.http.1.7.1.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.instrumentation.runtime\\1.7.0\\opentelemetry.instrumentation.runtime.1.7.0.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.persistentstorage.abstractions\\1.0.0\\opentelemetry.persistentstorage.abstractions.1.0.0.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\opentelemetry.persistentstorage.filesystem\\1.0.0\\opentelemetry.persistentstorage.filesystem.1.0.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\polly.core\\8.3.0\\polly.core.8.3.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\polly.extensions\\8.3.0\\polly.extensions.8.3.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\polly.ratelimiting\\8.3.0\\polly.ratelimiting.8.3.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
-    "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
+    "C:\\Users\\ryan.dizon\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTelemetry.Instrumentation.Http' 1.7.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vh2m-22xx-q94f",
+      "libraryId": "OpenTelemetry.Instrumentation.Http",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/linux-x64"
+      ]
+    }
+  ]
 }

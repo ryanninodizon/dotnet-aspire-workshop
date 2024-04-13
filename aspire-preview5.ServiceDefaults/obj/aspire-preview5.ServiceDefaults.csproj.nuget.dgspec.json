@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Azure.Monitor.OpenTelemetry.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.Extensions.Http.Resilience": {
               "target": "Package",
               "version": "[8.3.0, )"
@@ -65,10 +69,6 @@
             "OpenTelemetry.Extensions.Hosting": {
               "target": "Package",
               "version": "[1.7.0, )"
-            },
-            "OpenTelemetry.Instrumentation.AspNetCore": {
-              "target": "Package",
-              "version": "[1.7.1, )"
             },
             "OpenTelemetry.Instrumentation.Http": {
               "target": "Package",
@@ -99,6 +99,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

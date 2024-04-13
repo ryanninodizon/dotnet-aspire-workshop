@@ -52,3 +52,4 @@ C:\Workshop\nerdearla\aspire-preview5.AppHost\obj\Debug\net8.0\refint\aspire-pre
 C:\Workshop\nerdearla\aspire-preview5.AppHost\obj\Debug\net8.0\aspire-preview5.AppHost.pdb
 C:\Workshop\nerdearla\aspire-preview5.AppHost\obj\Debug\net8.0\aspire-preview5.AppHost.genruntimeconfig.cache
 C:\Workshop\nerdearla\aspire-preview5.AppHost\obj\Debug\net8.0\ref\aspire-preview5.AppHost.dll
+C:\Workshop\nerdearla\aspire-preview5.AppHost\obj\Debug\net8.0\aspire-preview5.AppHost.sourcelink.json

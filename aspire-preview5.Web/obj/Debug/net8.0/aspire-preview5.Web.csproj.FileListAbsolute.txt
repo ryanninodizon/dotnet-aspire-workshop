@@ -67,3 +67,11 @@ C:\Workshop\nerdearla\aspire-preview5.Web\obj\Debug\net8.0\refint\aspire-preview
 C:\Workshop\nerdearla\aspire-preview5.Web\obj\Debug\net8.0\aspire-preview5.Web.pdb
 C:\Workshop\nerdearla\aspire-preview5.Web\obj\Debug\net8.0\aspire-preview5.Web.genruntimeconfig.cache
 C:\Workshop\nerdearla\aspire-preview5.Web\obj\Debug\net8.0\ref\aspire-preview5.Web.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\obj\Debug\net8.0\aspire-preview5.Web.sourcelink.json
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\Azure.Monitor.OpenTelemetry.AspNetCore.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\Azure.Monitor.OpenTelemetry.Exporter.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\OpenTelemetry.PersistentStorage.Abstractions.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\OpenTelemetry.PersistentStorage.FileSystem.dll
+C:\Workshop\nerdearla\aspire-preview5.Web\bin\Debug\net8.0\System.Memory.Data.dll
